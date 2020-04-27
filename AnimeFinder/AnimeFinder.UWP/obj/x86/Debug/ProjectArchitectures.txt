@@ -1,0 +1,1 @@
+C:\Users\ksbal\source\repos\AnimeFinder\AnimeFinder\AnimeFinder.UWP\AnimeFinder.UWP.csproj;x86

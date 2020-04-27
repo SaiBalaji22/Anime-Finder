@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             Title="Home"
+             
+             x:Class="AnimeFinder.MainPage">
+
+    <StackLayout>
+        <SearchBar x:Name="sbar" Placeholder="Enter the Anime name" SearchButtonPressed="SearchBar_SearchButtonPressed" FontSize="20"/>
+        <ActivityIndicator x:Name="ai" IsVisible="False" IsRunning="False"/>
+        <ListView x:Name="animelist" HasUnevenRows="True" ItemSelected="animelist_ItemSelected">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal">
+                            <Image x:Name="aimg" Source="{Binding image_url}" WidthRequest="200" HeightRequest="200"/>
+                            <StackLayout Orientation="Vertical">
+                
+                                <Label  Text="{Binding title}" FontSize="20" TextColor="Black"/>
+                                <Label Text="SYNOPSIS:" FontSize="30" TextColor="Black"/>
+                                <Label Text="{Binding synopsis}" FontSize="15" TextColor="Green"/>
+                                <Label Text="Number of Episodes" FontSize="20" TextColor="Black"/>
+                                <Label Text="{Binding episodes}" FontSize="15" TextColor="Red"/>
+                                <Label Text="Rating" FontSize="20" TextColor="Black"/>
+                                <Label Text="{Binding rated}" FontSize="15" TextColor="SpringGreen"/>
+                                <Label Text="Airing" FontSize="20" TextColor="Black"/>
+                                <Label Text="{Binding airing}" FontSize="15" TextColor="DarkViolet"/>
+                              
+                                
+                            </StackLayout>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+
+</ContentPage>

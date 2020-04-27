@@ -1,0 +1,14 @@
+C:\Users\ksbal\source\repos\AnimeFinder\AnimeFinder\AnimeFinder\bin\Debug\netstandard2.0\AnimeFinder.deps.json
+C:\Users\ksbal\source\repos\AnimeFinder\AnimeFinder\AnimeFinder\bin\Debug\netstandard2.0\AnimeFinder.dll
+C:\Users\ksbal\source\repos\AnimeFinder\AnimeFinder\AnimeFinder\obj\Debug\netstandard2.0\AnimeFinder.csprojAssemblyReference.cache
+C:\Users\ksbal\source\repos\AnimeFinder\AnimeFinder\AnimeFinder\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ksbal\source\repos\AnimeFinder\AnimeFinder\AnimeFinder\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ksbal\source\repos\AnimeFinder\AnimeFinder\AnimeFinder\obj\Debug\netstandard2.0\AnimeFinder.AssemblyInfoInputs.cache
+C:\Users\ksbal\source\repos\AnimeFinder\AnimeFinder\AnimeFinder\obj\Debug\netstandard2.0\AnimeFinder.AssemblyInfo.cs
+C:\Users\ksbal\source\repos\AnimeFinder\AnimeFinder\AnimeFinder\bin\Debug\netstandard2.0\ref\AnimeFinder.dll
+C:\Users\ksbal\source\repos\AnimeFinder\AnimeFinder\AnimeFinder\bin\Debug\netstandard2.0\AnimeFinder.pdb
+C:\Users\ksbal\source\repos\AnimeFinder\AnimeFinder\AnimeFinder\obj\Debug\netstandard2.0\AnimeFinder.dll
+C:\Users\ksbal\source\repos\AnimeFinder\AnimeFinder\AnimeFinder\obj\Debug\netstandard2.0\ref\AnimeFinder.dll
+C:\Users\ksbal\source\repos\AnimeFinder\AnimeFinder\AnimeFinder\obj\Debug\netstandard2.0\AnimeFinder.pdb
+C:\Users\ksbal\source\repos\AnimeFinder\AnimeFinder\AnimeFinder\obj\Debug\netstandard2.0\Browser.xaml.g.cs
+C:\Users\ksbal\source\repos\AnimeFinder\AnimeFinder\AnimeFinder\obj\Debug\netstandard2.0\XamlC.stamp
